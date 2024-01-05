@@ -48,7 +48,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [MrPhoniex/ds-dashboard](https://github.com/MrPhoniex/ds-dashboard)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|33<br/>Tools used|12/21/23 <br/>Report generated|
+|35<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -209,9 +209,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (16)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (18)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (16)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (18)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -222,6 +222,8 @@ Full tech stack [here](/techstack.md)
 |[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.5.0|10/31/22|Jinquan Wang |MIT|N/A|
 |[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v4.2.1|10/31/22|Jinquan Wang |MIT|N/A|
 |[eslint-plugin-vue](https://www.npmjs.com/eslint-plugin-vue)|v9.7.0|10/31/22|Jinquan Wang |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.1|10/03/22|Jinquan Wang |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v13.0.3|10/31/22|Jinquan Wang |MIT|N/A|
 |[mockjs](https://www.npmjs.com/mockjs)|v1.1.0|10/04/22|Jinquan Wang |MIT|[CVE-2023-26158](https://github.com/advisories/GHSA-mh8j-9jvh-gjf6) (High)|
 |[nprogress](https://www.npmjs.com/nprogress)|v0.2.0|10/03/22|Jinquan Wang |MIT|N/A|
 |[postcss-less](https://www.npmjs.com/postcss-less)|v6.0.0|10/28/22|Jinquan Wang |MIT|N/A|
